@@ -24,7 +24,7 @@ public class UnnamedTest {
   }
 
   /*
-  todo 不调用该函数，只在类型定义。仍然报错：(不抛异常，或不使用匿名字段，就不会报错)
+  todo 不调用该函数，只在类中定义。仍然报错：(不抛异常，或不使用匿名字段，就不会报错)
   错误: 加载主类 com.bamboo.UnnamedTest 时出现 LinkageError
 	java.lang.ClassFormatError: Illegal field name "" in class com/bamboo/UnnamedTest
    */
