@@ -7,3 +7,4 @@
 - switch 的模式匹配（Pattern Matching for switch）
 - 字符串模板 （String Templates）
 - 结构化并发 Structured Concurrency (Preview)
+- Scoped Value (Preview) - 进程间共享不可变对象
