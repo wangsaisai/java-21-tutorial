@@ -6,3 +6,4 @@
 - 记录类型的模式（Record Patterns）
 - switch 的模式匹配（Pattern Matching for switch）
 - 字符串模板 （String Templates）
+- 结构化并发 Structured Concurrency (Preview)
