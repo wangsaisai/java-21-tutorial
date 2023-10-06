@@ -13,3 +13,4 @@
 - 文本块（Text Blocks）
 - sealed class - 密封类，指定子类名，不允许再额外新增子类
 - Records - 数据类。包括构造器、equals()、hashCode()和toString()等方法。 - 为了简化代码
+- UTF-8 - Java 18中将UTF-8指定为标准Java API的默认字符集。这一更改的主要目标是使依赖于默认字符集的API更具可预测性和可移植性。 在Java 18之前，默认字符集是在Java运行时确定的，不同操作系统或环境下，结果不一样。
