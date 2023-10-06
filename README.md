@@ -11,4 +11,5 @@
 
 # 其他版本引入的新特性
 - 文本块（Text Blocks）
-- sealed class - 密封类，指定子类名，不允许在新增子类
+- sealed class - 密封类，指定子类名，不允许再额外新增子类
+- Records - 数据类。包括构造器、equals()、hashCode()和toString()等方法。 - 为了简化代码

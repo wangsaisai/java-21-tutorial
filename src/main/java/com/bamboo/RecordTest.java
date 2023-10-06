@@ -15,6 +15,9 @@ public class RecordTest {
   }
 
   public static void main(String[] args) {
+    Point p = new Point(1, 2);
+    System.out.println(p.x);  // 1
+    System.out.println(p.x());  // 1
     printSum(new Point(1, 2));  // 3
   }
 
