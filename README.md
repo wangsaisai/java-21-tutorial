@@ -8,3 +8,6 @@
 - 字符串模板 （String Templates）
 - 结构化并发 Structured Concurrency (Preview)
 - Scoped Value (Preview) - 进程间共享不可变对象
+
+# 其他版本引入的新特性
+- 文本块（Text Blocks）
